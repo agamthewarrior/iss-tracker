@@ -4,7 +4,7 @@ A real-time dashboard that tracks the International Space Station as it orbits t
 
 ![ISS Live Tracker screenshot](screenshot.png)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-f97316?style=for-the-badge&logo=github&logoColor=white)](https://g0dwarri0r.github.io/iss-tracker/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-f97316?style=for-the-badge&logo=github&logoColor=white)](https://agamthewarrior.github.io/iss-tracker/)
 
 ## Features
 
